@@ -1,10 +1,12 @@
 require 'simplecov'
+require 'coveralls'
 SimpleCov.formatter = SimpleCov::Formatter::MultiFormatter[
-  SimpleCov::Formatter::HTMLFormatter
+  SimpleCov::Formatter::HTMLFormatter,
+  Coveralls::SimpleCov::Formatter
 ]
 SimpleCov.start { add_filter '/spec/' }
 
-require 'lita-do-it'
+require 'lita-hubstaff-report'
 require 'lita/rspec'
 
 # A compatibility mode is provided for older plugins upgrading from
