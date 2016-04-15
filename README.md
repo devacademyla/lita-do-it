@@ -22,3 +22,7 @@ None.
 taco: just... do it
 lita: http://i.giphy.com/10FUfTApAeoZK8.gif
 ```
+
+## License
+
+[MIT License](LICENSE.md)
