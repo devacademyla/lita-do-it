@@ -3,8 +3,8 @@ Gem::Specification.new do |spec|
   spec.version       = '0.1.0'
   spec.authors       = ['Daniel Gallegos']
   spec.email         = ['daniel@tacowolf.net']
-  spec.description   = 'Just... DO IT.'
-  spec.summary       = 'DO IT.'
+  spec.description   = 'A Lita plugin for motivating your team.'
+  spec.summary       = 'Motivate your team to DO IT.'
   spec.homepage      = 'https://devacademy.la'
   spec.license       = 'MIT'
   spec.metadata      = { 'lita_plugin_type' => 'handler' }

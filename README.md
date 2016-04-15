@@ -1,6 +1,6 @@
 # lita-do-it
 
-[![Build Status](https://travis-ci.org/thattacoguy/lita-do-it.png?branch=master)](https://travis-ci.org/devacademyla/lita-do-it)
+[![Build Status](https://travis-ci.org/thattacoguy/lita-do-it.svg?branch=master)](https://travis-ci.org/devacademyla/lita-do-it)
 
 Just... DO IT.
 
